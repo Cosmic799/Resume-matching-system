@@ -1,0 +1,9 @@
+streamlit
+pandas
+sentence-transformers
+pdfplumber
+python-docx
+requests
+python-dotenv
+watchdog
+scikit-learn
