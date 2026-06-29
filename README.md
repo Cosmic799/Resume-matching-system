@@ -123,12 +123,7 @@ Open your browser at `http://localhost:8501` (or the next available port if 8501
 
 ## 🧪 Testing
 
-The project includes `generate_resumes.py` which creates 5 sample resumes for testing:
-- Ishaan Tyagi (Backend Engineer)
-- Meenakshi Patel (Data Analyst)
-- Tanmay Kulkarni (MLOps Engineer)
-- Shivangi Rana (Data Science fresher)
-- Devansh Bhatt (Backend Developer)
+The project includes `generate_resumes.py` which creates 5 sample resumes for testing
 
 To generate them:
 ```bash
